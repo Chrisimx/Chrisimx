@@ -1,5 +1,4 @@
 ### Hi there 👋
-- My name is Christian
 - 🔭 I’m currently working on new features for Xournal++
 - My long-term goal as creating an assistant that uses both Whisper and a LLM for creating a powerful open-source home assistant
 - 🌱 I’m currently learning Rust
