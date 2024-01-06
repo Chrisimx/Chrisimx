@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is christian
+My name is Christian
 - My favourite language is C++
 - I also like Rust but think that it's sometimes overly complicated
 - 🔭 I’m regularly working on Xournal++
