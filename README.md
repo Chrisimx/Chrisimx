@@ -3,7 +3,7 @@ My name is Christian
 - My favourite language is C++
 - I also like Rust but think that it's sometimes overly complicated
 - I’m an open-source and Linux enthusiast
-- My long-term goal is creating an assistant that uses both Whisper and a LLM for creating a powerful open-source home assistant
+- My long-term goal is creating an assistant that uses both Whisper and a LLM to create a powerful open-source home assistant
 - 🌱 I’m trying to get more in depth experience with Rust
 <!--
 **Chrisimx/Chrisimx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
